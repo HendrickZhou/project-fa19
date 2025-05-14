@@ -36,6 +36,7 @@ def solve(list_of_locations, list_of_homes, starting_car_location, adjacency_mat
     car_path = [soda_idx, random_neighbor, soda_idx]
     drop_offs = {random_neighbor:home_idxs}
     return car_path, drop_offs
+
     
     # loc = list_of_locations
     # car_path = [0,1,3,6,0]

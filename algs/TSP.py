@@ -8,6 +8,11 @@ class TSP:
 	"""
 
 	def __init__(self, G):
-		pass
+		self.G = G
 
-	# def 
+	def LP():
+
+
+
+if __name__ == '__main__':
+	
